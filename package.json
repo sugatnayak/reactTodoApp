@@ -37,6 +37,8 @@
     "mocha": "^2.4.5",
     "node-sass": "^3.13.1",
     "node-uuid": "^1.4.8",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
     "sass-loader": "^3.2.3",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
